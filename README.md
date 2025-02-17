@@ -28,7 +28,7 @@
 ### 2. 安装脚本
 
 方法一：点击下面的链接直接安装：
-- [安装最新版本](https://raw.githubusercontent.com/yourusername/smart-link-opener/main/smart-link-opener.user.js)
+- 待更新
 
 方法二：手动安装
 1. 打开脚本管理器的管理面板
